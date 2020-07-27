@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 15 Jul 2020 13:43:03 at https://technxtweb.bitrix24.site/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://technxtweb.bitrix24.site/ -O1 "C:\My Web Sites\tech" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:44:06	Error: 	"Not Found" (404) at link https://technxtweb.bitrix24.site/bitrix/js/ui/polyfill/closest/js/closest.js (from https://technxtweb.bitrix24.site/)
+13:44:08	Error: 	"Not Found" (404) at link https://technxtweb.bitrix24.site/bitrix/js/main/lazyload/dist/lazyload.bundle.css (from https://technxtweb.bitrix24.site/)
+13:44:10	Error: 	"Not Found" (404) at link https://technxtweb.bitrix24.site/crm.activity.planner/slider.php (from https://technxtweb.bitrix24.site/bitrix/js/main/sidepanel/slider.min.js?159006718527200)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 6 seconds : 64 links scanned, 60 files written (4778932 bytes overall) [2798406 bytes received at 42400 bytes/sec], 2763409 bytes transferred using HTTP compression in 43 files, ratio 26%, 4.4 requests per connection
+(3 errors, 0 warnings, 0 messages)

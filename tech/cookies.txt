@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+technxtweb.bitrix24.site	TRUE	/	FALSE	1999999999	PHPSESSID	1C0gyEGXEaLIvgrGYTol2SX0wRlPw12s
+technxtweb.bitrix24.site	TRUE	/	FALSE	1999999999	qmb	.
+
